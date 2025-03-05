@@ -32,7 +32,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 - Optional plugin for Index Controllers by Markmon
 - Scan mapped to Right Thumb-Stick ↓
 
-####    (In game Scan (D-Pad Up) still work as intended)
+####    (In game Scan (D-Pad Up) still works as intended)
 
 ####    (Below is for folks who don't want to click their Thumb-Sticks) 
 
