@@ -61,6 +61,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 ## Other Features
 - Removed all Weapon/Cam bobbing
 - Removed crosshair (Non combat crosshair remains (ie in Pawn Shop) so you can select items easily)
+- Removed Dash/Dodge screen effect
 - Free head/controller movement in main menu/pause menu/inventory/cut-scenes/Interactions
 - All dialogues have free head/controller movement
 - All mid-game mini-cut cams detached from controller
