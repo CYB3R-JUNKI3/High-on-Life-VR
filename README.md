@@ -30,24 +30,13 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 ## Controls
 - No change to game controls
 - Optional plugin for Index Controllers by Markmon
-- Scan mapped to Right Thumb-Stick ↓
-
-####    (In game Scan (D-Pad Up) still works as intended)
 
 ####    (Below is for folks who don't want to click their Thumb-Sticks) 
 
 - Sprint mapped to Right Thumb-Stick ↑
+- Knifey mapped to Right Thumb-Stick ↓
 
-####    (In game Sprint (L3) still works as intended)
-----
-
-
-## Knifey Gesture
-- Swing your Right Controller in ANY direction
-- Stop your Right Controller pointing at the object/enemy you wish to hit
-- Knifey will appear (in your Right Hand) and attack will trigger
-
-####  (In game Knifey (R3) still works as intended)
+####    (In game Sprint (L3) and Knifey (R3) still work as intended)
 ----
 
 
@@ -62,6 +51,8 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 - Removed all Weapon/Cam bobbing
 - Removed crosshair (Non combat crosshair remains (ie in Pawn Shop) so you can select items easily)
 - Removed Dash/Dodge screen effect
+- Attached weapons to Right Controller
+- Knifey attached to Left Controller
 - Free head/controller movement in main menu/pause menu/inventory/cut-scenes/Interactions
 - All dialogues have free head/controller movement
 - All mid-game mini-cut cams detached from controller
@@ -69,7 +60,6 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 - Character arms visible during montages
 - Weapon Scale/Angle fixes
 - Weapon recoil/spread removed
-- Attached weapons to Right Controller
 - Accuracy increased when not aiming 
 - Movement orientation set to Left Controller (feel free to change)
 - Some cvar tweaks
@@ -83,5 +73,9 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 :bulb: This is so you are always facing the character talking, I may modify/improve this in a future update
 
 ---
+:question: _Sweezy's secondary shot fires from the left_
 
+:bulb: Simply couldn't track this down, will update when a fix is found
+
+---
 
