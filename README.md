@@ -68,7 +68,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/High-on-Life-V
 
 
 ## Important Notes / FAQ's
-:question: _During dialogues, my view is forced forwards_
+:question: _During some dialogues, my view is forced forwards_
 
 :bulb: This is so you are always facing the character talking, I may modify/improve this in a future update
 
